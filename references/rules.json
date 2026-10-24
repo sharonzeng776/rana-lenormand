@@ -1,0 +1,40 @@
+[
+  {
+    "id": "single-axis",
+    "kind": "product_policy",
+    "source": "user confirmed",
+    "rule": "primary_reference controls all columns"
+  },
+  {
+    "id": "chain",
+    "kind": "book_explicit",
+    "source": "B55:618-629",
+    "rule": "card to occupied native house; stop cycle"
+  },
+  {
+    "id": "career-tree",
+    "kind": "book_explicit",
+    "source": "B55:1234",
+    "rule": "only ownership/stake"
+  },
+  {
+    "id": "h-first",
+    "kind": "product_policy",
+    "rule": "unordered entity pair within session"
+  },
+  {
+    "id": "annual-allocation",
+    "kind": "product_policy",
+    "rule": "one ordered list of exactly four month IDs"
+  },
+  {
+    "id": "first-draw",
+    "kind": "product_policy",
+    "rule": "retain; redraw only explicit user or verified boundary"
+  },
+  {
+    "id": "clarifier",
+    "kind": "product_policy",
+    "rule": "fresh40;one round per main target;no recursion;disabled until stage4"
+  }
+]

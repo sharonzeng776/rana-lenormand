@@ -1,0 +1,208 @@
+[
+  {
+    "id": "daily.single",
+    "classification": "daily.single／练习",
+    "source": "B11:45–47",
+    "specification": "单牌记事练习，非复杂预测首选",
+    "verification": "兼容，已核",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "daily.pair",
+    "classification": "daily.pair／练习",
+    "source": "B11:46–47；B55:18–104组合练习",
+    "specification": "两牌保序，日志反馈；固定符号组合训练可不新抽",
+    "verification": "兼容，已核",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "daily.three",
+    "classification": "daily.three／练习／简阵",
+    "source": "B55:105–125",
+    "specification": "随机3张，按抽取顺序摆，中间主题、末牌发展；日常缩小语义尺度",
+    "verification": "兼容，已核",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "answer.focus-neighbors",
+    "classification": "answer.focus-neighbors／独立牌阵发牌变体",
+    "source": "B55:126–143、157–171",
+    "specification": "全40洗牌找已指定焦点，前后各2或3；检索／逐张翻找两种实体过程",
+    "verification": "兼容；普通／首尾规则已核，近边缘不足但非首尾部分待定",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "answer.random-focus",
+    "classification": "answer.random-focus／同阵发牌变体",
+    "source": "B55:144–155",
+    "specification": "5或7张，逐次抽并洗剩余牌；先揭示中间，再余牌；读中央三牌后整线",
+    "verification": "兼容，已核；153方向字样单列疑点",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "five.techniques",
+    "classification": "five.techniques／同阵读法组",
+    "source": "B55:181–195",
+    "specification": "故事、相邻双牌、莲花、1/3/5＋2/4、整体五种读法；不为技法重复抽牌",
+    "verification": "兼容，已核；主读法在抽前选定，整体法不能冒称模型直觉",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "decision.book",
+    "classification": "decision.book／独立牌阵",
+    "source": "B55:258–268；image/135.jpg",
+    "specification": "同一副牌A取3、B再取3；两竖列；先比较方向后读选择组合",
+    "verification": "兼容6张，正文＋图已核；两选项版",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "box.random",
+    "classification": "box.random／独立牌阵",
+    "source": "B55:296–343；image/139.jpg",
+    "specification": "随机9张按抽取顺序ABC/DEF/GHI；时间、意识、X、十字、菱形",
+    "verification": "兼容，正文＋图已核",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "box.preselected-center",
+    "classification": "box.preselected-center／同阵变体",
+    "source": "B55:329",
+    "specification": "E可为预选焦点；其余8位置随机",
+    "verification": "允许预选中心已核；“移出焦点、洗39、依序填其他格”为D实现约定，非逐字发牌指令",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "astrological.wheel",
+    "classification": "astrological.wheel／独立牌阵",
+    "source": "B55:376–401；image/141.jpg",
+    "specification": "十二领域每组3；第一宫从九点方向起，逆时针；剩4张作全局需注意事项",
+    "verification": "40兼容，正文＋图已核；不算真实星盘",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "astrological.columns",
+    "classification": "astrological.columns／同阵布局变体",
+    "source": "B55:401",
+    "specification": "十二竖列每列3，从第一宫到十二宫；另列余4提醒",
+    "verification": "40兼容，已核；不是年度月份",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "pyramid.three-topics",
+    "classification": "pyramid.three-topics／独立牌阵",
+    "source": "B55:431–441",
+    "specification": "预定三主题和时段；首3在上，次3左下，末3右下，共9张",
+    "verification": "兼容，已核；432/441开放自定义不等于书中给出每种自定义算法",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "yearly",
+    "classification": "yearly／独立牌阵",
+    "source": "B55:442–444",
+    "specification": "月份顺序12×3=36；同一次40洗牌余4作补充",
+    "verification": "40兼容，已核；用户先选月份及分配顺序为P",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "cross",
+    "classification": "cross／独立牌阵",
+    "source": "B55:445–461",
+    "specification": "A/B/C横排后D上E下，5张；原因／焦点／结果／驱动／底流及指定组合",
+    "verification": "兼容，已核；不是凯尔特十字",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "gt40.general",
+    "classification": "gt40.general／独立牌阵",
+    "source": "B55:818–851",
+    "specification": "40张8×5，完整洗牌顺序摆；主步骤见第八节",
+    "verification": "原文允许仅一对人物，兼容，已核",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "gt40.relationship",
+    "classification": "gt40.relationship／同阵专题读法",
+    "source": "B55:1060–1115",
+    "specification": "人物关系、人物间区域、心、婚姻条件下戒指、关系健康树、亲密床、收尾",
+    "verification": "40单对基础兼容；额外人物叠放不启用；朝向／远近阈值仍有工程待核",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "gt40.career",
+    "classification": "gt40.career／同阵专题读法",
+    "source": "B55:1220–1261",
+    "specification": "本人、合伙人条件、市场／熊／鱼；树仅本人拥有或有实质利益的企业",
+    "verification": "40单对兼容，已核；普通求职不读企业健康树",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "box.psychological",
+    "classification": "box.psychological／九宫语义变体",
+    "source": "B66:198–229；image/177.jpg",
+    "specification": "上行外显，中行隐藏，下行未认识／未接纳的主题；不是时间三阶段",
+    "verification": "兼容9张，正文＋图已核；仅象征反思，不能诊断或断言他人隐秘人格",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "identifier",
+    "classification": "identifier／独立牌阵",
+    "source": "B66:230–252",
+    "specification": "五行：意图／外在面具／隐藏性质／情绪核心／行为结果；每行1～2，中性且不清楚可加1",
+    "verification": "5～10张结构已核；原书追加是否回牌、具体时机未说明，原版精确牌池协议待核",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "mediumship.prompts",
+    "classification": "mediumship.prompts／专题问答方法",
+    "source": "B57:90–104、137–142",
+    "specification": "问题分别指定3、4、5张，缺独立命名几何，不等于一个新大桌",
+    "verification": "登记为作者专题；可解释其象征用法，不执行“已联系灵体”的事实宣称",
+    "availability": "knowledge_only",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "gt40",
+    "variant": "flat",
+    "branches": {
+      "standard": "enabled_stage2",
+      "mirror": "unverified_hold",
+      "facing": "unverified_hold"
+    },
+    "availability": "knowledge_only",
+    "algorithm": "sha256-counter-rejection-pop-v1",
+    "source": "B55:830-851;1220-1261",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  },
+  {
+    "id": "answer",
+    "variant": "focus-neighbors",
+    "availability": "knowledge_only",
+    "branches": {
+      "interior": "source_verified",
+      "first": "source_verified_four_cards",
+      "last": "source_verified_retry",
+      "near_edge": "unverified_hold"
+    },
+    "source": "B55:138-143",
+    "execution": "Use ready/capabilities.json; this source catalog is not the executable list."
+  }
+]

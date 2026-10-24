@@ -1,0 +1,13 @@
+{
+  "source_kind": "user_course_supplement",
+  "attribution": "用户对课程的补充，不是第二版逐字规则",
+  "rules": {
+    "gt_default": "未指定时段默认六个月，抽前说明",
+    "gt_six_month_column": "一列约1至1.5个月",
+    "gt_three_month_column": "一列约2至3周",
+    "other_duration": "按问题时段近似缩放；总范围1/6至1/4仅为设计归纳",
+    "gt_edges": "最上行下方为拥有或可支配；最下行上方为压力；首列新阶段；末列等待阶段转换，不自动立即重抽",
+    "h_first": "同一关系组合首次读接近本质的关系取向；后续问题明确时段；不代表证实真实内心",
+    "single_axis": "只有主参照所在列是全桌现在，辅助焦点不另设时间轴"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "0.6.0-rc.4-public.1",
+  "status": "public-preview",
+  "deck": "rana40-v1",
+  "platform_verified": "Windows only; publication smoke checks are separate from original 67-test regression",
+  "closed": [
+    "near_edge",
+    "scored",
+    "h.split",
+    "mirror",
+    "facing",
+    "identifier.adaptive",
+    "identifier.product-clarifier"
+  ],
+  "based_on": "0.6.0-rc.4"
+}

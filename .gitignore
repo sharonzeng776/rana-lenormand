@@ -1,0 +1,27 @@
+# Private configuration and derived consultations
+config.local.json
+*.local.json
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*.log
+runtime/
+cache/
+out/
+private/
+local-resources/
+*.epub
+*.pdf
+*.html
+*.jfif
+*.jpg
+*.jpeg
+*.png
+*.svg
+*.mp4
+*.mp3
+*.zip

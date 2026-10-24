@@ -1,0 +1,522 @@
+[
+  {
+    "id": "1",
+    "number": 1,
+    "en": "Rider",
+    "zh": "骑士",
+    "index_hint": "到来、消息、行动",
+    "source": {
+      "id": "essential-2",
+      "unit": 14,
+      "href": "OEBPS/Section0012.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "en": "Clover",
+    "zh": "三叶草",
+    "index_hint": "短暂机会、轻松、侥幸",
+    "source": {
+      "id": "essential-2",
+      "unit": 15,
+      "href": "OEBPS/Section0013.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "3",
+    "number": 3,
+    "en": "Ship",
+    "zh": "船",
+    "index_hint": "距离、旅行、探索",
+    "source": {
+      "id": "essential-2",
+      "unit": 16,
+      "href": "OEBPS/Section0014.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "4",
+    "number": 4,
+    "en": "House",
+    "zh": "房屋",
+    "index_hint": "家、安全范围、根基",
+    "source": {
+      "id": "essential-2",
+      "unit": 17,
+      "href": "OEBPS/Section0015.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "5",
+    "number": 5,
+    "en": "Tree",
+    "zh": "树",
+    "index_hint": "成长、持久、健康象征",
+    "source": {
+      "id": "essential-2",
+      "unit": 18,
+      "href": "OEBPS/Section0016.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "6",
+    "number": 6,
+    "en": "Clouds",
+    "zh": "云",
+    "index_hint": "不清楚、疑虑、波动",
+    "source": {
+      "id": "essential-2",
+      "unit": 19,
+      "href": "OEBPS/Section0017.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "7",
+    "number": 7,
+    "en": "Snake",
+    "zh": "蛇",
+    "index_hint": "绕路、复杂、诱惑",
+    "source": {
+      "id": "essential-2",
+      "unit": 20,
+      "href": "OEBPS/Section0018.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "8",
+    "number": 8,
+    "en": "Coffin",
+    "zh": "棺材",
+    "index_hint": "停止、结束、封闭",
+    "source": {
+      "id": "essential-2",
+      "unit": 21,
+      "href": "OEBPS/Section0019.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "9",
+    "number": 9,
+    "en": "Bouquet",
+    "zh": "花束",
+    "index_hint": "礼遇、愉快、赠与",
+    "source": {
+      "id": "essential-2",
+      "unit": 22,
+      "href": "OEBPS/Section0020.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "10",
+    "number": 10,
+    "en": "Scythe",
+    "zh": "镰刀",
+    "index_hint": "突然切断、决定、风险",
+    "source": {
+      "id": "essential-2",
+      "unit": 23,
+      "href": "OEBPS/Section0021.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "11",
+    "number": 11,
+    "en": "Whip",
+    "zh": "鞭子",
+    "index_hint": "重复、争执、训练；Muree不以性为默认",
+    "source": {
+      "id": "essential-2",
+      "unit": 24,
+      "href": "OEBPS/Section0022.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "12",
+    "number": 12,
+    "en": "Birds",
+    "zh": "鸟",
+    "index_hint": "谈话、躁动、短暂沟通",
+    "source": {
+      "id": "essential-2",
+      "unit": 25,
+      "href": "OEBPS/Section0023.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "13",
+    "number": 13,
+    "en": "Child",
+    "zh": "孩子",
+    "index_hint": "新开始、小规模、稚嫩",
+    "source": {
+      "id": "essential-2",
+      "unit": 26,
+      "href": "OEBPS/Section0024.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "14",
+    "number": 14,
+    "en": "Fox",
+    "zh": "狐狸",
+    "index_hint": "策略、警觉、职业技能；传统受雇工作焦点",
+    "source": {
+      "id": "essential-2",
+      "unit": 27,
+      "href": "OEBPS/Section0025.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "15",
+    "number": 15,
+    "en": "Bear",
+    "zh": "熊",
+    "index_hint": "力量、资源、资金掌控",
+    "source": {
+      "id": "essential-2",
+      "unit": 28,
+      "href": "OEBPS/Section0026.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "16",
+    "number": 16,
+    "en": "Stars",
+    "zh": "星星",
+    "index_hint": "指引、清晰、愿景",
+    "source": {
+      "id": "essential-2",
+      "unit": 29,
+      "href": "OEBPS/Section0027.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "17",
+    "number": 17,
+    "en": "Stork",
+    "zh": "鹳",
+    "index_hint": "改变、升级、迁移",
+    "source": {
+      "id": "essential-2",
+      "unit": 30,
+      "href": "OEBPS/Section0028.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "18",
+    "number": 18,
+    "en": "Dog",
+    "zh": "狗",
+    "index_hint": "支持、忠诚、友伴",
+    "source": {
+      "id": "essential-2",
+      "unit": 31,
+      "href": "OEBPS/Section0029.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "19",
+    "number": 19,
+    "en": "Tower",
+    "zh": "塔",
+    "index_hint": "机构、边界、独立",
+    "source": {
+      "id": "essential-2",
+      "unit": 32,
+      "href": "OEBPS/Section0030.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "20",
+    "number": 20,
+    "en": "Garden",
+    "zh": "花园",
+    "index_hint": "公众、群体、社交",
+    "source": {
+      "id": "essential-2",
+      "unit": 33,
+      "href": "OEBPS/Section0031.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "21",
+    "number": 21,
+    "en": "Mountain",
+    "zh": "山",
+    "index_hint": "阻碍、延迟、隔离",
+    "source": {
+      "id": "essential-2",
+      "unit": 34,
+      "href": "OEBPS/Section0032.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "22",
+    "number": 22,
+    "en": "Crossroads",
+    "zh": "岔路",
+    "index_hint": "选择、多条路径、分流",
+    "source": {
+      "id": "essential-2",
+      "unit": 35,
+      "href": "OEBPS/Section0033.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "23",
+    "number": 23,
+    "en": "Mice",
+    "zh": "老鼠",
+    "index_hint": "耗损、焦虑、侵蚀",
+    "source": {
+      "id": "essential-2",
+      "unit": 36,
+      "href": "OEBPS/Section0034.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "24",
+    "number": 24,
+    "en": "Heart",
+    "zh": "心",
+    "index_hint": "喜爱、投入、温情",
+    "source": {
+      "id": "essential-2",
+      "unit": 37,
+      "href": "OEBPS/Section0035.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "25",
+    "number": 25,
+    "en": "Ring",
+    "zh": "戒指",
+    "index_hint": "约定、联系、周期",
+    "source": {
+      "id": "essential-2",
+      "unit": 38,
+      "href": "OEBPS/Section0036.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "26",
+    "number": 26,
+    "en": "Book",
+    "zh": "书",
+    "index_hint": "知识、未知、学习",
+    "source": {
+      "id": "essential-2",
+      "unit": 39,
+      "href": "OEBPS/Section0037.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "27",
+    "number": 27,
+    "en": "Letter",
+    "zh": "信",
+    "index_hint": "文本、文件、通知",
+    "source": {
+      "id": "essential-2",
+      "unit": 40,
+      "href": "OEBPS/Section0038.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "28",
+    "number": 28,
+    "en": "Man",
+    "zh": "男士",
+    "index_hint": "预先指定的人物；角色不靠抽后猜",
+    "source": {
+      "id": "essential-2",
+      "unit": 41,
+      "href": "OEBPS/Section0039.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "29",
+    "number": 29,
+    "en": "Woman",
+    "zh": "女士",
+    "index_hint": "预先指定的人物；角色不靠抽后猜",
+    "source": {
+      "id": "essential-2",
+      "unit": 42,
+      "href": "OEBPS/Section0040.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "30",
+    "number": 30,
+    "en": "Lilies",
+    "zh": "百合",
+    "index_hint": "成熟、平和、经验",
+    "source": {
+      "id": "essential-2",
+      "unit": 43,
+      "href": "OEBPS/Section0041.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "31",
+    "number": 31,
+    "en": "Sun",
+    "zh": "太阳",
+    "index_hint": "活力、正面发展、明朗",
+    "source": {
+      "id": "essential-2",
+      "unit": 44,
+      "href": "OEBPS/Section0042.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "32",
+    "number": 32,
+    "en": "Moon",
+    "zh": "月亮",
+    "index_hint": "认可、可见度、感受",
+    "source": {
+      "id": "essential-2",
+      "unit": 45,
+      "href": "OEBPS/Section0043.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "33",
+    "number": 33,
+    "en": "Key",
+    "zh": "钥匙",
+    "index_hint": "解决、关键、开启",
+    "source": {
+      "id": "essential-2",
+      "unit": 46,
+      "href": "OEBPS/Section0044.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "34",
+    "number": 34,
+    "en": "Fish",
+    "zh": "鱼",
+    "index_hint": "丰裕、自由、现金流；传统自主经营焦点",
+    "source": {
+      "id": "essential-2",
+      "unit": 47,
+      "href": "OEBPS/Section0045.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "35",
+    "number": 35,
+    "en": "Anchor",
+    "zh": "锚",
+    "index_hint": "稳定、坚持、长期目标；不默认职业主牌",
+    "source": {
+      "id": "essential-2",
+      "unit": 48,
+      "href": "OEBPS/Section0046.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "36",
+    "number": 36,
+    "en": "Cross",
+    "zh": "十字架",
+    "index_hint": "负担、考验、责任",
+    "source": {
+      "id": "essential-2",
+      "unit": 49,
+      "href": "OEBPS/Section0047.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "37",
+    "number": 37,
+    "en": "Spirit",
+    "zh": "灵",
+    "index_hint": "内在指引、精神象征；可经同意指定本人",
+    "source": {
+      "id": "essential-2",
+      "unit": 50,
+      "href": "OEBPS/Section0048.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "38",
+    "number": 38,
+    "en": "Incense Burner",
+    "zh": "香炉",
+    "index_hint": "清理、消散、短暂性",
+    "source": {
+      "id": "essential-2",
+      "unit": 51,
+      "href": "OEBPS/Section0049.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "39",
+    "number": 39,
+    "en": "Bed",
+    "zh": "床",
+    "index_hint": "休息、私密、亲密与性",
+    "source": {
+      "id": "essential-2",
+      "unit": 52,
+      "href": "OEBPS/Section0050.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  },
+  {
+    "id": "40",
+    "number": 40,
+    "en": "Market",
+    "zh": "市场",
+    "index_hint": "工作、雇佣、交易、商业；Muree职业焦点",
+    "source": {
+      "id": "essential-2",
+      "unit": 53,
+      "href": "OEBPS/Section0051.xhtml"
+    },
+    "hint_status": "Chinese navigation summary; consult selected edition and topic"
+  }
+]

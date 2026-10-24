@@ -1,0 +1,318 @@
+[
+  {
+    "spread": "small",
+    "variant": "single",
+    "source": "B11:45-47",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "pair",
+    "source": "B11:46-47",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "three",
+    "source": "B55:105-125",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "answer.random",
+    "source": "B55:144-155",
+    "algorithm": "remaining-shuffle-pick-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "answer.focus",
+    "source": "B55:133-143",
+    "algorithm": "shuffle-locate-window-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed",
+    "boundary_reading": {
+      "first4": {
+        "ready": [
+          "storyline"
+        ],
+        "hold": [
+          "pairs",
+          "lotus",
+          "135-24",
+          "group"
+        ]
+      },
+      "near_edge": "hold"
+    }
+  },
+  {
+    "spread": "small",
+    "variant": "decision.book",
+    "source": "B55:258-268",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "decision.descriptive",
+    "source": "C第7集:035-049",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "box.random",
+    "source": "B55:296-343",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "box.center",
+    "source": "B55:329;D39选8",
+    "algorithm": "preset-center-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "box.state",
+    "source": "C第9集:001-021",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "box.process",
+    "source": "C第10集:052-053",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "box.yesno",
+    "source": "C第10集:039-051",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "box.advice",
+    "source": "C第16集:034",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "cross",
+    "source": "B55:445-461",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "pyramid",
+    "source": "B55:431-441",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "small",
+    "variant": "h.once",
+    "source": "C第8集:001-014;U首次;D一次七张顺序",
+    "algorithm": "sample-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    },
+    "review": "stage03-06 verified; semantics remain model-reviewed"
+  },
+  {
+    "spread": "gt40",
+    "variant": "flat",
+    "source": "B55:832-851;U单一主轴",
+    "algorithm": "sha256-counter-rejection-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    }
+  },
+  {
+    "spread": "series",
+    "variant": "yearly",
+    "source": "B55:442-444",
+    "algorithm": "stage4-shuffle-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    }
+  },
+  {
+    "spread": "series",
+    "variant": "astro.wheel",
+    "source": "B55:376-401;image/141.jpg",
+    "algorithm": "stage4-shuffle-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    }
+  },
+  {
+    "spread": "series",
+    "variant": "astro.columns",
+    "source": "B55:376-401",
+    "algorithm": "stage4-shuffle-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    }
+  },
+  {
+    "spread": "series",
+    "variant": "identifier.one",
+    "source": "B66:230-237",
+    "algorithm": "stage4-shuffle-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    }
+  },
+  {
+    "spread": "series",
+    "variant": "identifier.two",
+    "source": "B66:230-237",
+    "algorithm": "stage4-shuffle-pop-v1",
+    "components": {
+      "deal": true,
+      "layout": true,
+      "read": true,
+      "render": true,
+      "tests": true
+    }
+  }
+]

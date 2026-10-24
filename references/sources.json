@@ -1,0 +1,39 @@
+{
+  "checked": "2026-10-06",
+  "coverage": "Selected verifiable passages, not a claim that four entire books were transcribed or independently corroborate each other.",
+  "local": [
+    {
+      "id": "essential-2",
+      "path": "__CONFIGURE__/essential-lenormand-second-edition.epub",
+      "sha256": "44c4301ad93b3e9c25693dda236e8ab38a7995aff76b0ed34a572c2d6780c807",
+      "title": "The Essential Lenormand (2025 second edition EPUB)",
+      "unit_count": 71,
+      "extraction": "text; selected rule and contextual sections verified",
+      "locators": {
+        "copyright": 5,
+        "introduction": 9,
+        "card_chapters": "unit = card number + 13; numbers 1..40",
+        "methods": 55,
+        "focus_cards": 59,
+        "houses": 62
+      }
+    }
+  ],
+  "public": [
+    {
+      "url": "https://www.ranageorge.com/lenormand/card-meanings",
+      "author": "Rana George",
+      "supports": "37..40 names; Bed/Whip and Market/Fox repartition"
+    },
+    {
+      "url": "https://www.usgamesinc.com/rana-george-lenormand.html",
+      "author": "U.S. Games Systems",
+      "supports": "42 physical cards = 36+4+extra Man and Woman; 124 printed-page guide"
+    },
+    {
+      "url": "https://llewellyn.com/product.php?ean=9780738780498",
+      "author": "Llewellyn",
+      "supports": "second edition, December 2025, 592 printed pages"
+    }
+  ]
+}

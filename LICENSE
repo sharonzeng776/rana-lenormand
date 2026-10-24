@@ -1,0 +1,9 @@
+# 原创部分：个人非商业使用许可（非开源许可）
+
+在发布者有权许可的原创代码、说明和整理范围内，允许个人下载安装并在本地为个人非商业目的运行本技能。除上述明确许可、适用法律及GitHub服务条款已允许的行为外，修改、转售、再发布及其他用途须另行获得相应权利人许可。保留其他权利。本许可不保证结果准确，也不提供任何明示或默示担保。
+
+本限制不适用于上游及其他第三方材料：scripts/vendor/auditable_draw.py继续依Apache License 2.0授权，参见LICENSE-UPSTREAM及THIRD_PARTY_NOTICES.md，原许可权利不受本文件缩减。
+
+Rana George的书籍、课程、牌面与其他第三方资料不属于本许可授权范围，不随仓库分发；使用者须自行取得相应使用权限。本项目是非官方工具，不表示作者认可或授权。
+
+This is a source-available project, not an open-source license. Original portions may be downloaded, installed and run locally by individuals for personal, non-commercial use. Other rights are reserved, subject to applicable law, GitHub's terms, and the separate licenses of third-party materials. This notice does not restrict the Apache-2.0 rights in the vendored upstream file.
